@@ -4,5 +4,5 @@
 # Unignore directories (so Git can check the .gitignore patterns inside them)
 !*/
 
-# Unignore only main.cpp files
-!main.cpp
+# Unignore only *.cpp files
+!*.cpp
